@@ -1,0 +1,24 @@
+<!-- dialog_country_item.xml -->
+<!-- dialog_country_item.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/ImageCountry"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/united_states"
+        android:contentDescription="Country Flag" />
+
+    <TextView
+        android:id="@+id/textCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>
+
