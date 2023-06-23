@@ -21,7 +21,7 @@ Include a few screenshots showcasing the user interface and key features of your
 
 
 ![Screenshot_2023-06-24-03-11-23-85_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/5d15e15f-1610-4494-9da1-4fc7ff4a6771)
-![Screenshot_2023-06-24-03-11-20-12_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/1e979733-12f5-44f1-9a86-e9feb76ded36)
+![Screenshot_2023-06-24-03-11-23-85_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/b69d1f14-fcfb-4bdb-a2d7-cb9859cb91d0)
 ![Screenshot_2023-06-24-03-11-05-74_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/798e3624-6fea-4fe7-ab90-4a02b56163dc)
 ![Screenshot_2023-06-24-03-09-49-44_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/bed52e1a-6e10-4b28-b670-67305e1ef57a)
 ![Screenshot_2023-06-24-03-09-22-58_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/b8513b05-a468-4024-a80d-4761bfeb5c85)
