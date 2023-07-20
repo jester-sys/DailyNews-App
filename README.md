@@ -37,7 +37,12 @@ Include a few screenshots showcasing the user interface and key features of your
 <img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/d6052564-4a0c-40fc-b9b4-d41a8ea589e0" width="200" height="400">
 <img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/9d7bed56-482c-4761-89de-7392986e090a" width="200" height="400">
 <img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/de2e86cd-af7f-42a9-9afa-dfd85316cd35" width="200" height="400">
-Architecture
+
+
+
+
+
+##Architecture
 
 The app follows the MVVM (Model-View-ViewModel) architecture, which separates the concerns of data management, UI rendering, and user interactions.
 
