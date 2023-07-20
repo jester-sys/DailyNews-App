@@ -19,27 +19,24 @@ Screenshots
 Include a few screenshots showcasing the user interface and key features of your app. For example:
 
 
-
-![Screenshot_2023-06-24-03-11-23-85_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/5d15e15f-1610-4494-9da1-4fc7ff4a6771)
-![Screenshot_2023-06-24-03-11-23-85_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/b69d1f14-fcfb-4bdb-a2d7-cb9859cb91d0)
-![Screenshot_2023-06-24-03-11-05-74_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/798e3624-6fea-4fe7-ab90-4a02b56163dc)
-![Screenshot_2023-![Screenshot_2023-06-24-03-35-09-18_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/b0c1f51c-7855-4a9d-a8b3-fa207a399bbf)
-06-24-03-09-49-44_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/bed52e1a-6e10-4b28-b670-67305e1ef57a)
-![Screenshot_2023-06-24-03-09-22-58_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/b8513b05-a468-4024-a80d-4761bfeb5c85)
-![Screenshot_2023-06-24-03-35-09-18_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/d08c6503-20ed-49f7-bfa5-6cc5265a3f74)
-![Screenshot_2023-06-24-03-08-17-95_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/a9c5e43b-c621-46ee-9f3c-aad843f64474)
-![Screenshot_2023-06-13-14-19-25-68_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/be31762d-cb40-40f7-8214-9ec72e5da681)
-![Screenshot_2023-06-13-14-19-20-89_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/27d6c6a4-3ff3-4620-a604-90fb3d14513d)
-![Screenshot_2023-06-24-03-10-56-78_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/d327a672-8539-4f78-82a1-ef1a032248e4)
-![Screenshot_2023-06-24-03-10-49-40_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/bea27220-775f-4b96-af5d-a066ea0a51b6)
-![Screenshot_2023-06-24-03-10-30-70![Screenshot_2023-06-24-03-11-43-09_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/d80859e3-dced-4927-893c-98118651247a)
-![Screenshot_2023-06-24-03-11-23-85_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/75c4f100-3ca0-4ba1-b89b-b3baaac7cc86)
-![Screenshot_2023-06-24-03-11-15-18_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/ce7fa067-3ca3-4cbb-8a9e-7661701afb3c)
-![Screenshot_2023-06-24-03-11-05-74_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/d6052564-4a0c-40fc-b9b4-d41a8ea589e0)
-_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/9d7bed56-482c-4761-89de-7392986e090a)
-![Screenshot_2023-06-24-03-11-43-09_1ed2117fd6ac924e621ba25bc591f5c1](https://github.com/jester-sys/DailyNews-App/assets/115554090/de2e86cd-af7f-42a9-9afa-dfd85316cd35)
-
-
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/5d15e15f-1610-4494-9da1-4fc7ff4a6771" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/b69d1f14-fcfb-4bdb-a2d7-cb9859cb91d0" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/798e3624-6fea-4fe7-ab90-4a02b56163dc" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/b0c1f51c-7855-4a9d-a8b3-fa207a399bbf" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/bed52e1a-6e10-4b28-b670-67305e1ef57a" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/b8513b05-a468-4024-a80d-4761bfeb5c85" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/d08c6503-20ed-49f7-bfa5-6cc5265a3f74" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/a9c5e43b-c621-46ee-9f3c-aad843f64474" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/be31762d-cb40-40f7-8214-9ec72e5da681" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/27d6c6a4-3ff3-4620-a604-90fb3d14513d" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/d327a672-8539-4f78-82a1-ef1a032248e4" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/bea27220-775f-4b96-af5d-a066ea0a51b6" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/d80859e3-dced-4927-893c-98118651247a" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/75c4f100-3ca0-4ba1-b89b-b3baaac7cc86" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/ce7fa067-3ca3-4cbb-8a9e-7661701afb3c" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/d6052564-4a0c-40fc-b9b4-d41a8ea589e0" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/9d7bed56-482c-4761-89de-7392986e090a" width="200" height="400">
+<img src="https://github.com/jester-sys/DailyNews-App/assets/115554090/de2e86cd-af7f-42a9-9afa-dfd85316cd35" width="200" height="400">
 Architecture
 
 The app follows the MVVM (Model-View-ViewModel) architecture, which separates the concerns of data management, UI rendering, and user interactions.
